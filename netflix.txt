@@ -20,25 +20,17 @@ ios.prod.ftl.netflix.com
 ios.prod.http1.netflix.com
 netflix.net
 aga.test.netflix.net
-
-// nflximg
 nflximg.net
 nflximg.com
-
-// nflxso
 occ-0-1480-1479.1.nflxso.net
 gfps6jh635pwah5kbwpqa-usw2.r.nflxso.net
 gfps6jodwkgk2hfiqpiuo-usw2.r.nflxso.net
 gfp5ae7wb4ze6vaa2nppg-usw2.r.nflxso.net
 gfpwsedyrz3gloioqlkmw-usw2.r.nflxso.net
 gfpxmfdrndfer6wo575ss-usw2.r.nflxso.net
-
-// nflxext
 assets.nflxext.com
 codex.nflxext.com
 webvtt-s.nflxext.com
-
-// nflxvideo
 ipv4-c001-sea003-ix.1.oca.nflxvideo.net
 ipv4-c002-sea003-ix.1.oca.nflxvideo.net
 ipv4-c003-sea003-ix.1.oca.nflxvideo.net
