@@ -15,6 +15,8 @@ python cidr.py netflix_dm.txt
 
 会生成后缀带_cidr的文件，里面就是其收集的IP段
 
+备注:如执行后没有收集到，则删除netflix_dm.txt，用vi命令新建文本，并复制netflix_dm.txt内容粘贴进去即可，然后重写执行
+
 ## 提交issues格式
 
 时间:
