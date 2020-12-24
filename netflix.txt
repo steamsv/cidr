@@ -19,7 +19,7 @@ ios.prod.cloud.netflix.com
 ios.prod.ftl.netflix.com
 ios.prod.http1.netflix.com
 
-// netflix.net
+// netflix
 netflix.net
 aga.test.netflix.net
 
